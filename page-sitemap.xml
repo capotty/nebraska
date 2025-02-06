@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/columbus/</loc>
-		<lastmod>2025-02-06T01:17:15+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fremont/</loc>
-		<lastmod>2025-02-06T01:17:14+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hastings/</loc>
-		<lastmod>2025-02-06T01:17:14+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/norfolk/</loc>
-		<lastmod>2025-02-06T01:17:14+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/grand-island/</loc>
-		<lastmod>2025-02-06T01:17:13+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kearney/</loc>
-		<lastmod>2025-02-06T01:17:13+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bellevue/</loc>
-		<lastmod>2025-02-06T01:17:12+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/gering/</loc>
-		<lastmod>2025-02-06T01:17:12+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lincoln/</loc>
-		<lastmod>2025-02-06T01:17:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/sidney/</loc>
-		<lastmod>2025-02-06T01:17:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ralston/</loc>
-		<lastmod>2025-02-06T01:17:11+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/alliance/</loc>
-		<lastmod>2025-02-06T01:17:11+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/beatrice/</loc>
-		<lastmod>2025-02-06T01:17:10+00:00</lastmod>
+		<loc>/sidney/</loc>
+		<lastmod>2025-02-06T23:50:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mccook/</loc>
-		<lastmod>2025-02-06T01:17:10+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/scottsbluff/</loc>
-		<lastmod>2025-02-06T01:17:09+00:00</lastmod>
+		<loc>/ralston/</loc>
+		<lastmod>2025-02-06T23:50:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/north-platte/</loc>
-		<lastmod>2025-02-06T01:17:09+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/south-sioux-city/</loc>
-		<lastmod>2025-02-06T01:17:09+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/papillion/</loc>
-		<lastmod>2025-02-06T01:17:08+00:00</lastmod>
+		<loc>/beatrice/</loc>
+		<lastmod>2025-02-06T23:50:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/la-vista/</loc>
-		<lastmod>2025-02-06T01:17:08+00:00</lastmod>
+		<loc>/scottsbluff/</loc>
+		<lastmod>2025-02-06T23:50:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/omaha/</loc>
-		<lastmod>2025-02-06T01:17:07+00:00</lastmod>
+		<lastmod>2025-02-06T23:50:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/papillion/</loc>
+		<lastmod>2025-02-06T23:50:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/la-vista/</loc>
+		<lastmod>2025-02-06T23:50:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
